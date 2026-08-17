@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="64" viewBox="0 0 1280 64" fill="none">
+<defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#a855f7;#22d3ee" dur="9s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#22d3ee;#a855f7" dur="9s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+<path d="M34 0H0V34" stroke="#ffffff" stroke-opacity="0.04" fill="none"/>
+</pattern>
+<radialGradient id="gA"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="gB"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect x="1" y="1" width="1278" height="62" rx="12"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1278" height="62" rx="12" fill="#0b0f16" stroke="#1e2733"/>
+<g clip-path="url(#clip)">
+<rect x="1" y="1" width="1278" height="62" fill="url(#grid)"/>
+
+<rect x="26" y="18" width="4" height="28" rx="2" fill="url(#acc)"/>
+<text x="50" y="41" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="15" fill="url(#acc)">03</text>
+<text x="92" y="43" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-weight="650" font-size="23" fill="#e6edf3">Projects</text>
+<line x1="224" y1="32" x2="1244" y2="32" stroke="#1e2733" stroke-width="1"/>
+
+</g>
+</svg>

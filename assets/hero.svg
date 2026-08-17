@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none">
+<defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#a855f7;#22d3ee" dur="9s" repeatCount="indefinite"/></stop>
+<stop offset="1" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#22d3ee;#a855f7" dur="9s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+<path d="M34 0H0V34" stroke="#ffffff" stroke-opacity="0.04" fill="none"/>
+</pattern>
+<radialGradient id="gA"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="gB"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect x="1" y="1" width="1278" height="398" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1278" height="398" rx="18" fill="#0b0f16" stroke="#1e2733"/>
+<g clip-path="url(#clip)">
+<rect x="1" y="1" width="1278" height="398" fill="url(#grid)"/>
+
+<circle cx="1130" cy="30" r="300" fill="url(#gA)" opacity="0.14"><animate attributeName="opacity" values="0.14;0.26;0.14" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="140" cy="400" r="320" fill="url(#gB)" opacity="0.13"><animate attributeName="opacity" values="0.13;0.24;0.13" dur="11s" repeatCount="indefinite"/></circle>
+<text x="84" y="78" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="15" fill="#8b96a5">~/studygeorge</text>
+<circle cx="1054" cy="72" r="4.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="1068" y="78" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="13" letter-spacing="1" fill="#3fb950">OPEN TO PROJECTS</text>
+<text x="84" y="150" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="15" letter-spacing="4" fill="url(#acc)">FULL-STACK &#183; HARDWARE &#183; PRODUCT DESIGN</text>
+<text x="80" y="230" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="84" fill="#e6edf3">George</text>
+<rect x="84" y="252" width="230" height="5" rx="2.5" fill="url(#acc)"/>
+<text x="84" y="292" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#8b96a5">I build products end to end &#8212; from the PCB and the enclosure to the API and the brand.</text>
+<text x="84" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">[</text><text x="96" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#8b96a5">manufacturing</text><text x="211" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">]</text><text x="239" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">[</text><text x="251" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#8b96a5">iot</text><text x="280" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">]</text><text x="308" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">[</text><text x="320" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#8b96a5">web</text><text x="349" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">]</text><text x="377" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">[</text><text x="389" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#8b96a5">electronics</text><text x="487" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">]</text><text x="515" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">[</text><text x="527" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#8b96a5">3d-printing</text><text x="625" y="330" font-family="Cascadia Code, Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#22d3ee" fill-opacity="0.85">]</text>
+
+</g>
+</svg>
