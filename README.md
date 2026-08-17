@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/hero.svg" width="100%" alt="George — full-stack developer, hardware engineer, product designer" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/hero.svg" width="100%" alt="George — full-stack developer, hardware engineer, product designer" />
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/sec-about.svg" width="100%" alt="About" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/sec-about.svg" width="100%" alt="About" />
 
 Tech entrepreneur with **10+ years in manufacturing and commercial development**. I build businesses in production and instrument engineering, design the products myself — from industrial design to the web interface — and write the code that ships them.
 
@@ -13,28 +13,43 @@ Tech entrepreneur with **10+ years in manufacturing and commercial development**
 - **Design** — product design and web design for my own products, not just implementation
 - **Manufacturing** — production lines, instrument engineering, DIY machine building
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/sec-stack.svg" width="100%" alt="Stack" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/sec-work.svg" width="100%" alt="Work" />
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/stack.svg" width="100%" alt="Languages, frontend, backend, infra, hardware" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/cap-case.svg" width="100%" alt="Stationery case — industrial design, CAD, small-batch production" />
+
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/work/case-desk.jpg" width="49%" alt="Stationery case on a desk" /> <img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/work/case-open.jpg" width="49%" alt="Stationery case opened with tools" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/work/case-flatlay.jpg" width="49%" alt="Stationery case flat lay" /> <img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/work/case-views.jpg" width="49%" alt="Stationery case orthographic views" />
+
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/cap-web.svg" width="100%" alt="WeddingCreate — product design, web app, visual editor" />
+
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/work/web-landing.jpg" width="49%" alt="WeddingCreate landing page" /> <img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/work/web-editor.jpg" width="49%" alt="WeddingCreate visual editor" />
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/sec-projects.svg" width="100%" alt="Projects" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/sec-stack.svg" width="100%" alt="Stack" />
 
 <div align="center">
 
-<a href="https://github.com/studygeorge/3d-printing-creality-mechanics"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/card-creality.svg" width="49%" alt="3d-printing-creality-mechanics" /></a>
-<a href="https://github.com/studygeorge/sonatum-music"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/card-sonatum.svg" width="49%" alt="sonatum-music" /></a>
-<a href="https://github.com/studygeorge/padeltech"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/card-padeltech.svg" width="49%" alt="padeltech" /></a>
-<a href="https://github.com/studygeorge/goldandtime"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/card-goldandtime.svg" width="49%" alt="goldandtime" /></a>
-
-<a href="https://github.com/studygeorge?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/allrepos.svg" width="100%" alt="View all repositories" /></a>
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/stack.svg" width="100%" alt="Languages, frontend, backend, infra, hardware" />
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/sec-stats.svg" width="100%" alt="Stats" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/sec-projects.svg" width="100%" alt="Projects" />
+
+<div align="center">
+
+<a href="https://github.com/studygeorge/3d-printing-creality-mechanics"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/card-creality.svg" width="49%" alt="3d-printing-creality-mechanics" /></a>
+<a href="https://github.com/studygeorge/sonatum-music"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/card-sonatum.svg" width="49%" alt="sonatum-music" /></a>
+<a href="https://github.com/studygeorge/padeltech"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/card-padeltech.svg" width="49%" alt="padeltech" /></a>
+<a href="https://github.com/studygeorge/goldandtime"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/card-goldandtime.svg" width="49%" alt="goldandtime" /></a>
+
+<a href="https://github.com/studygeorge?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/allrepos.svg" width="100%" alt="View all repositories" /></a>
+
+</div>
+
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/sec-stats.svg" width="100%" alt="Stats" />
 
 <div align="center">
 
@@ -49,10 +64,10 @@ Tech entrepreneur with **10+ years in manufacturing and commercial development**
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/sec-contact.svg" width="100%" alt="Contact" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/sec-contact.svg" width="100%" alt="Contact" />
 
 <div align="center">
 
-<a href="mailto:workgeorg@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@3b515452e1c7b19d2c9a5b951cc8fcb50f317f1d/assets/contact.svg" width="100%" alt="workgeorg@yandex.ru" /></a>
+<a href="mailto:workgeorg@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@e914ddc32cd140b5c0bff8f7d873973acc04dad6/assets/contact.svg" width="100%" alt="workgeorg@yandex.ru" /></a>
 
 </div>
