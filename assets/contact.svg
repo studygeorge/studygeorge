@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" fill="none">
-<rect x="0.5" y="0.5" width="1279" height="109" rx="14" fill="#0d1117" stroke="#262c36"/>
+<rect width="1280" height="110" rx="12" fill="#3a99f7"/>
 
-<text x="48" y="66" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#f0f6fc">Have an interesting engineering problem?</text>
-<text x="1232" y="66" font-family="Cascadia Code, Consolas, 'SF Mono', Menlo, monospace" font-size="15" fill="#f0f6fc" text-anchor="end">workgeorg@yandex.ru</text>
-<line x1="1042" y1="78" x2="1232" y2="78" stroke="#8b949e"/>
+<text x="48" y="52" font-family="Cascadia Code, Consolas, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="1" fill="#ffffff" fill-opacity="1" text-anchor="start">HAVE AN INTERESTING ENGINEERING PROBLEM?</text>
+<text x="48" y="80" font-family="Cascadia Code, Consolas, 'SF Mono', Menlo, monospace" font-size="11" letter-spacing="1" fill="#ffffff" fill-opacity="0.7" text-anchor="start">OPEN TO PRODUCT COLLABORATIONS, MANUFACTURING AND INSTRUMENTATION PROJECTS</text>
+<rect x="952" y="36" width="280" height="42" rx="21" fill="none" stroke="#ffffff" stroke-opacity="0.9"/>
+<text x="1092" y="62" font-family="Cascadia Code, Consolas, 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="0" fill="#ffffff" fill-opacity="1" text-anchor="middle">workgeorg@yandex.ru</text>
 
 </svg>
