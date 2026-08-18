@@ -1,49 +1,49 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/hero.png" width="100%" alt="George — full-stack developer, hardware engineer, product designer" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/hero.png" width="100%" alt="George — full-stack developer, hardware engineer, product designer" />
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/sec-about.svg" width="100%" alt="About" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/sec-about.svg" width="100%" alt="About" />
 
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/about.svg" width="100%" alt="Tech entrepreneur with 10+ years in manufacturing. Full-stack, hardware, design, manufacturing." />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/about.svg" width="100%" alt="Tech entrepreneur with 10+ years in manufacturing. Full-stack, hardware, design, manufacturing." />
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/sec-work.svg" width="100%" alt="Work" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/sec-work.svg" width="100%" alt="Work" />
 
 <div align="center">
 
-<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-desk-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-open-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-flatlay-sq.jpg" width="32%" alt="Pencil case" /></a>
-<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-open-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-flatlay-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-desk-sq.jpg" width="32%" alt="Pencil case" /></a>
-<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-flatlay-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-desk-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-open-sq.jpg" width="32%" alt="Pencil case" /></a>
-<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-desk-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-open-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-flatlay-sq.jpg" width="32%" alt="Pencil case" /></a>
-<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-open-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-flatlay-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-desk-sq.jpg" width="32%" alt="Pencil case" /></a>
-<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-flatlay-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-desk-sq.jpg" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/work/case-open-sq.jpg" width="32%" alt="Pencil case" /></a>
+<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-desk-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-open-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-flatlay-sq.webp" width="32%" alt="Pencil case" /></a>
+<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-open-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-flatlay-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-desk-sq.webp" width="32%" alt="Pencil case" /></a>
+<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-flatlay-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-desk-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-open-sq.webp" width="32%" alt="Pencil case" /></a>
+<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-desk-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-open-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-flatlay-sq.webp" width="32%" alt="Pencil case" /></a>
+<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-open-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-flatlay-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-desk-sq.webp" width="32%" alt="Pencil case" /></a>
+<a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-flatlay-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-desk-sq.webp" width="32%" alt="Pencil case" /></a> <a href="https://github.com/studygeorge/pencil-case"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/work/case-open-sq.webp" width="32%" alt="Pencil case" /></a>
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/sec-stack.svg" width="100%" alt="Stack" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/sec-stack.svg" width="100%" alt="Stack" />
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/stack.svg" width="100%" alt="Languages, frontend, backend, infra, hardware" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/stack.svg" width="100%" alt="Languages, frontend, backend, infra, hardware" />
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/sec-projects.svg" width="100%" alt="Projects" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/sec-projects.svg" width="100%" alt="Projects" />
 
 <div align="center">
 
-<a href="https://github.com/studygeorge/3d-printing-creality-mechanics"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/card-creality.svg" width="49%" alt="3d-printing-creality-mechanics" /></a>
-<a href="https://github.com/studygeorge/sonatum-music"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/card-sonatum.svg" width="49%" alt="sonatum-music" /></a>
-<a href="https://github.com/studygeorge/padeltech"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/card-padeltech.svg" width="49%" alt="padeltech" /></a>
-<a href="https://github.com/studygeorge/goldandtime"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/card-goldandtime.svg" width="49%" alt="goldandtime" /></a>
+<a href="https://github.com/studygeorge/3d-printing-creality-mechanics"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/card-creality.svg" width="49%" alt="3d-printing-creality-mechanics" /></a>
+<a href="https://github.com/studygeorge/sonatum-music"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/card-sonatum.svg" width="49%" alt="sonatum-music" /></a>
+<a href="https://github.com/studygeorge/padeltech"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/card-padeltech.svg" width="49%" alt="padeltech" /></a>
+<a href="https://github.com/studygeorge/goldandtime"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/card-goldandtime.svg" width="49%" alt="goldandtime" /></a>
 
-<a href="https://github.com/studygeorge?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/allrepos.svg" width="100%" alt="View all repositories" /></a>
+<a href="https://github.com/studygeorge?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/allrepos.svg" width="100%" alt="View all repositories" /></a>
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/sec-stats.svg" width="100%" alt="Stats" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/sec-stats.svg" width="100%" alt="Stats" />
 
 <div align="center">
 
@@ -54,10 +54,10 @@
 
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/sec-contact.svg" width="100%" alt="Contact" />
+<img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/sec-contact.svg" width="100%" alt="Contact" />
 
 <div align="center">
 
-<a href="mailto:workgeorg@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@48e3a8b03e93dd8b230848f1f0854260cbd01d8d/assets/contact.svg" width="100%" alt="workgeorg@yandex.ru" /></a>
+<a href="mailto:workgeorg@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/studygeorge/studygeorge@1a8bf72b2956161cbf6f7eba5731e02a88190855/assets/contact.svg" width="100%" alt="workgeorg@yandex.ru" /></a>
 
 </div>
